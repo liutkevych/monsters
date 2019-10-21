@@ -2,7 +2,7 @@
   "name": "monster-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://liutkevych.gitgub.io/monsters",
+  "homepage": "https://liutkevych.github.io/monsters",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.2",
